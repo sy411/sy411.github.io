@@ -1,59 +1,56 @@
 title {
-    font-size: 75px;
+  font-size: 75px;
 }
 
 body {
-    background-color: white;
-    font-size: 25px;
-    font-weight: 600;
+  background-color: white;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 header {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 h1 {
-    font-size: 50px;
-    font-weight: 600;
+  font-size: 50px;
+  font-weight: 600;
 }
 
-
 h2 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 h3 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 h4 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 h5 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 p {
-    color: grey;
-    font-size: 20px;
-    
+  color: grey;
+  font-size: 20px;
 }
 
 h6 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 h7 {
-    font-size: 25px;
-    font-weight: 600;
+  font-size: 25px;
+  font-weight: 600;
 }
-
 
 /*http://www.color-hex.com/color-palette/10610*/
